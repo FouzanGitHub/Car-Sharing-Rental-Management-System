@@ -36,27 +36,6 @@
 | 🧑‍💼 **Admin Chat** | Built-in admin-to-user support system |
 
 ---
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://your-screenshot-link-1.com" alt="Home Screen" width="45%" />
-  <img src="https://your-screenshot-link-2.com" alt="Map View" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://your-screenshot-link-3.com" alt="Driver Panel" width="45%" />
-  <img src="https://your-screenshot-link-4.com" alt="Chat UI" width="45%" />
-</p>
-
----
-
-## 🎥 Demo Video
-
-https://www.youtube.com/watch?v=your-video-id *(Unlisted)*
-
----
-
 ## 📦 Tech Stack
 
 | Area | Technology |
@@ -71,6 +50,4 @@ https://www.youtube.com/watch?v=your-video-id *(Unlisted)*
 | Currency | Real-Time Exchange API |
 
 ---
-
-## 📂 Project Modules
 
