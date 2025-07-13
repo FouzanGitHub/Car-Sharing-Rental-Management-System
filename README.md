@@ -18,6 +18,8 @@
 📄 **Explore full project details, videos, and screenshots on Notion:**  
 👉 [Car Sharing & Rental Case Study on Notion](https://www.notion.so/Car-Sharing-Rental-Management-System-22f3f213f7a88051a59ae73d178e0b41)
 
+🌐 **Live Demo**:  
+👉 https://zamride.com/
 ---
 
 ## ✨ Key Features
