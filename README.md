@@ -1,20 +1,76 @@
-# 🚗 Car Sharing & Rental Management System
+<h1 align="center">🚗 Car Sharing & Rental Management System</h1>
 
-A complete web and mobile platform built with Flutter + GetX for real-time ride sharing and vehicle rentals. Includes GPS, chat, Stripe, auth, role-switching, and more.
+<p align="center">
+  <b>Web + Mobile Flutter App for ride sharing, rentals, real-time chat, and GPS tracking</b><br>
+  <i>Built with Flutter + GetX | Stripe | WebSockets | Firebase | Google Maps</i>
+</p>
 
-🔗 **Live Notion Case Study**:  
-[📄 View Full Project with Screenshots & Video](https://www.notion.so/Car-Sharing-Rental-Management-System-22f3f213f7a88051a59ae73d178e0b41)
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/your-github/car-sharing-app?color=blue&style=flat-square">
+  <img src="https://img.shields.io/badge/Platform-Web%20+%20Mobile-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Flutter-GetX-blueviolet?style=flat-square">
+</p>
 
 ---
 
-## 🔥 Key Features
+## 🔗 Live Case Study
 
-- Web + Mobile from single Flutter codebase
-- Role switching (Driver ↔ Passenger)
-- Stripe payment + in-app chat (WebSocket)
-- Google Maps, live tracking, and polylines
-- Biometric login + Google/Facebook auth
-- Realtime currency conversion and earnings
+📄 **Explore full project details, videos, and screenshots on Notion:**  
+👉 [Car Sharing & Rental Case Study on Notion](https://www.notion.so/Car-Sharing-Rental-Management-System-22f3f213f7a88051a59ae73d178e0b41)
 
-...
+---
+
+## ✨ Key Features
+
+| Role | Features |
+|------|----------|
+| 👤 **Passenger** | Search & book rides or rentals, real-time chat, booking history, profile management |
+| 🚗 **Driver** | List rides or vehicles for rent, manage vehicles/licenses, track earnings, live tracking |
+| 🔁 **Switch Roles** | Instant toggle between Driver ↔ Passenger from the app/web |
+| 📍 **Maps & Location** | Live tracking with Google Maps & polylines |
+| 💬 **Chat** | In-app real-time WebSocket chat |
+| 💳 **Stripe Payment** | Subscription & per-ride payments |
+| 🔐 **Authentication** | Google, Facebook login + biometric (Face ID / Fingerprint) |
+| 🔔 **Push Notifications** | Ride updates, payment status, messages |
+| 🌍 **Currency Conversion** | Real-time price adjustment for international users |
+| 🧑‍💼 **Admin Chat** | Built-in admin-to-user support system |
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://your-screenshot-link-1.com" alt="Home Screen" width="45%" />
+  <img src="https://your-screenshot-link-2.com" alt="Map View" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://your-screenshot-link-3.com" alt="Driver Panel" width="45%" />
+  <img src="https://your-screenshot-link-4.com" alt="Chat UI" width="45%" />
+</p>
+
+---
+
+## 🎥 Demo Video
+
+https://www.youtube.com/watch?v=your-video-id *(Unlisted)*
+
+---
+
+## 📦 Tech Stack
+
+| Area | Technology |
+|------|------------|
+| Frontend | Flutter (Web + Mobile) |
+| State Management | GetX |
+| Real-Time Chat | WebSocket |
+| Payments | Stripe API |
+| Maps | Google Maps SDK |
+| Auth | Google, Facebook, Biometric |
+| Notifications | Firebase Cloud Messaging |
+| Currency | Real-Time Exchange API |
+
+---
+
+## 📂 Project Modules
 
